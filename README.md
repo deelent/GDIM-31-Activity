@@ -1,7 +1,10 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+Activity 1
+1. When the camera is removed from being a child of the cat, the camera stays while the cat moves around since they're not longer bound and inheriting movement.
+2. Link to itch page: https://deeel.itch.io/my-first-steps
+
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.

@@ -27,6 +27,10 @@ a string to contain the response, and have that string be returned for GetRespon
 5. We compared the relationships between classes and components to tacos. We said that a class is like the tortilla that suits whatever you're trying to make,
 whether it be a soft shell, hard shell, or etc., whereas the this tortilla becomes a component through added ingredients and whatnot. You can also have combos of tacos like in a luxe box.
 6. I think because it's a multiplier, it will eventually go exponential given enough time and bounces which will get insanely bright.
+
+### W4
+Activity 1
+1. We said that the cat and ball both need rigid bodies since they need to move in the environment and interact while the goal needs a trigger since it's static.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 

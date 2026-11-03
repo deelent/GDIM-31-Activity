@@ -31,6 +31,12 @@ whether it be a soft shell, hard shell, or etc., whereas the this tortilla becom
 ### W4
 Activity 1
 1. We said that the cat and ball both need rigid bodies since they need to move in the environment and interact while the goal needs a trigger since it's static.
+
+### W6
+Activity 1
+1. For the DeerW5 class, I need to initialize all the same member fields as the CatW5 class so that it can move but now it also needs a serialized transform
+member variable so that it can be navigated and be tunable in the inspector. In order to use get component, we need to have a Start() method so that it performs the GetComponent once the game starts so that the deer can start navigating. 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 

@@ -35,7 +35,11 @@ Activity 1
 ### W6
 Activity 1
 1. For the DeerW5 class, I need to initialize all the same member fields as the CatW5 class so that it can move but now it also needs a serialized transform
-member variable so that it can be navigated and be tunable in the inspector. In order to use get component, we need to have a Start() method so that it performs the GetComponent once the game starts so that the deer can start navigating. 
+member variable so that it can be navigated and be tunable in the inspector. In order to use get component, we need to have a Start() method so that it performs the GetComponent once the game starts so that the deer can start navigating.
+
+### W7
+Activity 1
+1. It definitely needs the speed member variable since that's required, a transform to determine where to go and a bool that determines if it's chasing or not. It also needs a start chasing method and a stop chasing method that will be programmed by us. For the Unity side of things, we need an Update() method to check if the bat is still chasing or not and a start method to get the player's position.
 
 ## Open-Source Assets
 ### W1
